@@ -1,7 +1,7 @@
 # Premium-Call Tools
 <p align="center">
 <img src="https://img.shields.io/static/v1?label=Author&color=green&message=Dusttale &logo=Acclaim&logoColor=white&style=for-the-badge"><br>
-Tools Spam Call Unlimiter (+62)
+Tools Spam Call Unlimited (+62)
 https://t.me/SariiRooti
 </p>
 <p align="center">
@@ -30,7 +30,7 @@ https://t.me/SariiRooti
   ```bash
   Example:
   import os,sys,time #default module python
-  import requests
+  import requests,json
 
   def massive():
   	try:
