@@ -25,7 +25,7 @@ https://t.me/SariiRooti
 
 ## How To Create Massive?
 <details open>
-  <summary><strong> Non Stop/Reapeat </strong></summary>
+  <summary><strong> Multi Target </strong></summary>
 
   ```bash
   Example:
