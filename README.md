@@ -1,7 +1,7 @@
 # Premium-Call Tools
 <p align="center">
 <img src="https://img.shields.io/static/v1?label=Author&color=green&message=Dusttale &logo=Acclaim&logoColor=white&style=for-the-badge"><br>
-Tools Spam Call Unlimiter (+62)
+Tools Spam Call Unlimited (+62)
 https://t.me/SariiRooti
 </p>
 <p align="center">
@@ -46,8 +46,7 @@ https://t.me/SariiRooti
 
 # Info
 <p align="center">
-  <a href="https://github.com/AmmarrBN"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Sewaktu+waktu+tools+ini+akan" alt="UwU">
-  <a href="https://github.com/AmmarrBN"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=expired+jadi+gunakan+dengan+bijak+!" alt="UwU">
+  <a href="https://github.com/AmmarrBN"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Decode/Recode?+Ampas+🚮" alt="UwU">
 </p>
 
 <details open>
