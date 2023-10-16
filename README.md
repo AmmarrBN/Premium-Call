@@ -66,3 +66,15 @@ https://t.me/SariiRooti
   python call.py
   ```
   </details>
+
+<details open>
+  <summary><strong> Update Tools(AmmarrBN)</strong></summary>
+
+  ```bash
+  cd && rm -rf Premium-Call
+  git clone https://github.com/AmmarrBN/Premium-Call
+  cd Premium-Call
+  pip install -r requirements.txt
+  python call.py
+  ```
+  </details>
